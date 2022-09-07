@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.22b4130c.css",
-    "main.js": "/static/js/main.f0824ab8.js",
-    "static/js/787.4b8fb9d9.chunk.js": "/static/js/787.4b8fb9d9.chunk.js",
-    "index.html": "/index.html",
-    "main.22b4130c.css.map": "/static/css/main.22b4130c.css.map",
-    "main.f0824ab8.js.map": "/static/js/main.f0824ab8.js.map",
-    "787.4b8fb9d9.chunk.js.map": "/static/js/787.4b8fb9d9.chunk.js.map"
+    "main.css": "/worldcup/static/css/main.22b4130c.css",
+    "main.js": "/worldcup/static/js/main.26afaadb.js",
+    "static/js/787.4b8fb9d9.chunk.js": "/worldcup/static/js/787.4b8fb9d9.chunk.js",
+    "index.html": "/worldcup/index.html",
+    "main.22b4130c.css.map": "/worldcup/static/css/main.22b4130c.css.map",
+    "main.26afaadb.js.map": "/worldcup/static/js/main.26afaadb.js.map",
+    "787.4b8fb9d9.chunk.js.map": "/worldcup/static/js/787.4b8fb9d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22b4130c.css",
-    "static/js/main.f0824ab8.js"
+    "static/js/main.26afaadb.js"
   ]
 }
