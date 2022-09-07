@@ -19,7 +19,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "delpoy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,5 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ricardomartinez10.github.io/worldcup/"
+  "homepage": "https://ricardomartinez10.github.io/worldcup/",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
