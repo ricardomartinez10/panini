@@ -12,7 +12,7 @@ class MainComponent extends react.Component {
             data: [],
             openModal: false,
             playerData: {},
-            repeatedPlayers: ''
+            repeatedPlayers: []
         }
         this.service = new soccerService();
         //this.service.addGems();
@@ -70,7 +70,7 @@ class MainComponent extends react.Component {
 
         const tiiles = repeated.map((player) => {
             return player.team + player.key;
-        }).toString();
+        });
 
         this.setState({
             repeatedPlayers: tiiles
@@ -88,7 +88,9 @@ class MainComponent extends react.Component {
                 <hr></hr>
                 <div>
                     <h2>Laminas repetidas</h2>
-                    <p>{this.state.repeatedPlayers}</p>
+                    <div>
+                        {this.state.repeatedPlayers.map(player => <p className='player-repeated-txt'>{player}</p>)}
+                    </div>
                 </div>
             </div>
         )

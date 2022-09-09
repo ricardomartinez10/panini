@@ -114,3 +114,8 @@ h1,h2 {
 .player-repeated {
     background-color: var(--secondary-repeated-color);;
 }
+
+.player-repeated-txt {
+    display: inline-block;
+    margin-right: 10px;
+}
