@@ -52,6 +52,7 @@ render() {
             <Box sx={style}>
                 <div className='modal-container'>
                   <h1 className='modal-title'>{this.props.playerData.collected ? 'Quitar' : 'Agregar'}</h1>
+                  <h2 className='modal-title'>{this.props.playerData.team}{this.props.playerData.player}</h2>
                   <div className='modal-button' onClick={this.updatePlayer}>Confirmar</div>
                 </div>
             </Box>
