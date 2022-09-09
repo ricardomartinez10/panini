@@ -40,6 +40,13 @@ updatePlayer = () => {
   this.handleClose();
 };
 
+repeatedPlayer = () => {
+  const playerData = this.props.playerData;
+  const repeated = !playerData.repeated;
+  this.soccerService.repeatedPlayer(playerData.team, playerData.player, repeated);
+  this.handleClose();
+}
+
 render() {
     return (
         <div>
@@ -51,9 +58,13 @@ render() {
           >
             <Box sx={style}>
                 <div className='modal-container'>
-                  <h1 className='modal-title'>{this.props.playerData.collected ? 'Quitar' : 'Agregar'}</h1>
                   <h2 className='modal-title'>{this.props.playerData.team}{this.props.playerData.player}</h2>
-                  <div className='modal-button' onClick={this.updatePlayer}>Confirmar</div>
+                  {!this.props.playerData.repeated ? (
+                    <div className='modal-button' onClick={this.updatePlayer}>{this.props.playerData.collected ? 'Quitar' : 'Agregar'}</div>
+                  ) : (null)}
+                  {this.props.playerData.repeated || this.props.playerData.collected ? (
+                    <div className={`modal-button repeated ${this.props.playerData.collected && this.props.playerData.repeated ? 'remove-repeated' : ''}`} onClick={this.repeatedPlayer}>{this.props.playerData.repeated ? 'Quitar Repetido' : 'Repetido'}</div>
+                  ) : (null)}
                 </div>
             </Box>
           </Modal>

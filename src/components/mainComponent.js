@@ -27,7 +27,6 @@ class MainComponent extends react.Component {
             this.setState({
                 data: teams
             });
-            console.log('llega');
             if (teams) {
                 this.getRepeatedplayers(teams);
             }
@@ -63,7 +62,7 @@ class MainComponent extends react.Component {
         teams.forEach(team => {
             players = Object.values(team);
             players.forEach((player) => {
-                if (player.collected) {
+                if (player.repeated) {
                     repeated.push(player);
                 }
             })
@@ -86,6 +85,11 @@ class MainComponent extends react.Component {
                 {this.state.data.length ? this.renderTeamLines(): (
                     <p>Loading</p>
                 )}
+                <hr></hr>
+                <div>
+                    <h2>Laminas repetidas</h2>
+                    <p>{this.state.repeatedPlayers}</p>
+                </div>
             </div>
         )
     }

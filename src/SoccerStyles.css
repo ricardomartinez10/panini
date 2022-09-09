@@ -2,6 +2,7 @@
     --main-text-color: rgb(27, 104, 62);
     --secondary-text-color: rgb(255, 255, 255);
     --main-bold-text: 600;
+    --secondary-repeated-color: brown;
 }
 
 h1,h2 {
@@ -69,9 +70,20 @@ h1,h2 {
 
 .modal-button {
     background-color: var(--main-text-color);
+    font-weight: var(--main-bold-text);
     color: var(--secondary-text-color);;
     display: inline-block;
     padding: 10px 20px;
+    font-size: 20px;
+}
+
+.modal-button.repeated {
+    background-color: var(--secondary-repeated-color);;
+    margin-left: 30px;
+}
+
+.modal-button.remove-repeated{
+    margin-left: 0;
 }
 
 .player-container {
@@ -82,6 +94,8 @@ h1,h2 {
     border-radius: 50px;
     margin-right: 10px;
     margin-bottom: 10px;
+    border: 1px solid;
+    color: var(--main-text-color);
 }
 
 .player-key {
@@ -97,7 +111,6 @@ h1,h2 {
     color: var(--secondary-text-color);;
 }
 
-.player-missing {
-    border: 1px solid;
-    color: var(--main-text-color);
+.player-repeated {
+    background-color: var(--secondary-repeated-color);;
 }

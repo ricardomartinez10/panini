@@ -1,0 +1,3296 @@
+{
+  "teams": {
+    "ARG": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "ARG"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "ARG"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "ARG"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "ARG"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "ARG"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "ARG"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "ARG"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "ARG"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "ARG"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "ARG"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "ARG"
+      },
+      "12": {
+        "collected": true,
+        "key": 12,
+        "team": "ARG"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "ARG"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "ARG"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "ARG"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "ARG"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "ARG"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "ARG"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "ARG"
+      },
+      "flag": "ar",
+      "name": "ARG"
+    },
+    "AUS": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "AUS"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "AUS"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "AUS"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "AUS"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "AUS"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "AUS"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "AUS"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "AUS"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "AUS"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "AUS"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "AUS"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "AUS"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "AUS"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "AUS"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "AUS"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "AUS"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "AUS"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "AUS"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "AUS"
+      },
+      "flag": "au",
+      "name": "AUS"
+    },
+    "BEL": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "BEL"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "BEL"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "BEL"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "BEL"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "BEL"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "BEL"
+      },
+      "7": {
+        "collected": true,
+        "key": 7,
+        "team": "BEL"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "BEL"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "BEL"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "BEL"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "BEL"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "BEL"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "BEL"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "BEL"
+      },
+      "15": {
+        "collected": true,
+        "key": 15,
+        "team": "BEL"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "BEL"
+      },
+      "17": {
+        "collected": true,
+        "key": 17,
+        "team": "BEL"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "BEL"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "BEL"
+      },
+      "flag": "be",
+      "name": "BEL"
+    },
+    "BRA": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "BRA"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "BRA"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "BRA"
+      },
+      "4": {
+        "collected": true,
+        "key": 4,
+        "team": "BRA"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "BRA"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "BRA"
+      },
+      "7": {
+        "collected": true,
+        "key": 7,
+        "team": "BRA"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "BRA"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "BRA"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "BRA"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "BRA"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "BRA"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "BRA"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "BRA"
+      },
+      "15": {
+        "collected": true,
+        "key": 15,
+        "team": "BRA"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "BRA"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "BRA"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "BRA"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "BRA"
+      },
+      "flag": "br",
+      "name": "BRA"
+    },
+    "CAN": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "CAN"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "CAN"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "CAN"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "CAN"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "CAN"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "CAN"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "CAN"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "CAN"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "CAN"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "CAN"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "CAN"
+      },
+      "12": {
+        "collected": true,
+        "key": 12,
+        "team": "CAN"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "CAN"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "CAN"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "CAN"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "CAN"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "CAN"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "CAN"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "CAN"
+      },
+      "flag": "ca",
+      "name": "CAN"
+    },
+    "CRC": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "CRC"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "CRC"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "CRC"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "CRC"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "CRC"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "CRC"
+      },
+      "7": {
+        "collected": true,
+        "key": 7,
+        "team": "CRC"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "CRC"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "CRC"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "CRC"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "CRC"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "CRC"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "CRC"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "CRC"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "CRC"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "CRC"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "CRC"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "CRC"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "CRC"
+      },
+      "flag": "cr",
+      "name": "CRC"
+    },
+    "CRM": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "CRM"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "CRM"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "CRM"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "CRM"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "CRM"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "CRM"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "CRM"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "CRM"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "CRM"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "CRM"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "CRM"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "CRM"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "CRM"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "CRM"
+      },
+      "15": {
+        "collected": true,
+        "key": 15,
+        "team": "CRM"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "CRM"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "CRM"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "CRM"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "CRM"
+      },
+      "flag": "cm",
+      "name": "CRM"
+    },
+    "CRO": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "CRO"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "CRO"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "CRO"
+      },
+      "4": {
+        "collected": true,
+        "key": 4,
+        "team": "CRO"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "CRO"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "CRO"
+      },
+      "7": {
+        "collected": true,
+        "key": 7,
+        "team": "CRO"
+      },
+      "8": {
+        "collected": true,
+        "key": 8,
+        "team": "CRO"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "CRO"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "CRO"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "CRO"
+      },
+      "12": {
+        "collected": true,
+        "key": 12,
+        "team": "CRO"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "CRO"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "CRO"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "CRO"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "CRO"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "CRO"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "CRO"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "CRO"
+      },
+      "flag": "hr",
+      "name": "CRO"
+    },
+    "DEN": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "DEN"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "DEN"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "DEN"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "DEN"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "DEN"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "DEN"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "DEN"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "DEN"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "DEN"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "DEN"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "DEN"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "DEN"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "DEN"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "DEN"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "DEN"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "DEN"
+      },
+      "17": {
+        "collected": true,
+        "key": 17,
+        "team": "DEN"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "DEN"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "DEN"
+      },
+      "flag": "dk",
+      "name": "DEN"
+    },
+    "ECU": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "ECU"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "ECU"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "ECU"
+      },
+      "4": {
+        "collected": true,
+        "key": 4,
+        "team": "ECU"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "ECU"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "ECU"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "ECU"
+      },
+      "8": {
+        "collected": true,
+        "key": 8,
+        "team": "ECU"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "ECU"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "ECU"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "ECU"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "ECU"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "ECU"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "ECU"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "ECU"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "ECU"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "ECU"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "ECU"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "ECU"
+      },
+      "flag": "ec",
+      "name": "ECU"
+    },
+    "ENG": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "ENG"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "ENG"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "ENG"
+      },
+      "4": {
+        "collected": true,
+        "key": 4,
+        "team": "ENG"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "ENG"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "ENG"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "ENG"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "ENG"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "ENG"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "ENG"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "ENG"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "ENG"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "ENG"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "ENG"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "ENG"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "ENG"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "ENG"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "ENG"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "ENG"
+      },
+      "flag": "gb-eng",
+      "name": "ENG"
+    },
+    "ESP": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "ESP"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "ESP"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "ESP"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "ESP"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "ESP"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "ESP"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "ESP"
+      },
+      "8": {
+        "collected": true,
+        "key": 8,
+        "team": "ESP"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "ESP"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "ESP"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "ESP"
+      },
+      "12": {
+        "collected": true,
+        "key": 12,
+        "team": "ESP"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "ESP"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "ESP"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "ESP"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "ESP"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "ESP"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "ESP"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "ESP"
+      },
+      "flag": "es",
+      "name": "ESP"
+    },
+    "FIFA": {
+      "1": {
+        "collected": false,
+        "key": "1"
+      },
+      "2": {
+        "collected": true,
+        "key": "2"
+      },
+      "3": {
+        "collected": false,
+        "key": "3"
+      },
+      "4": {
+        "collected": true,
+        "key": "4"
+      },
+      "5": {
+        "collected": false,
+        "key": "5"
+      },
+      "6": {
+        "collected": false,
+        "key": "6"
+      },
+      "7": {
+        "collected": true,
+        "key": "7"
+      },
+      "8": {
+        "collected": false,
+        "key": "8"
+      },
+      "9": {
+        "collected": false,
+        "key": "9"
+      },
+      "10": {
+        "collected": false,
+        "key": "10"
+      },
+      "11": {
+        "collected": true,
+        "key": "11"
+      },
+      "12": {
+        "collected": false,
+        "key": "12"
+      },
+      "13": {
+        "collected": false,
+        "key": "13"
+      },
+      "14": {
+        "collected": true,
+        "key": "14"
+      },
+      "15": {
+        "collected": false,
+        "key": "15"
+      },
+      "16": {
+        "collected": false,
+        "key": "16"
+      },
+      "17": {
+        "collected": false,
+        "key": "17"
+      },
+      "18": {
+        "collected": false,
+        "key": "18"
+      },
+      "19": {
+        "collected": true,
+        "key": "19"
+      },
+      "20": {
+        "collected": false,
+        "key": "20"
+      },
+      "21": {
+        "collected": true,
+        "key": "21"
+      },
+      "22": {
+        "collected": false,
+        "key": "22"
+      },
+      "23": {
+        "collected": false,
+        "key": "23"
+      },
+      "24": {
+        "collected": false,
+        "key": "24"
+      },
+      "25": {
+        "collected": true,
+        "key": "25"
+      },
+      "26": {
+        "collected": false,
+        "key": "26"
+      },
+      "27": {
+        "collected": false,
+        "key": "27"
+      },
+      "28": {
+        "collected": true,
+        "key": "28"
+      },
+      "29": {
+        "collected": false,
+        "key": "29"
+      },
+      "00": {
+        "collected": false,
+        "key": "00"
+      },
+      "flag": "co",
+      "name": "FIFA"
+    },
+    "FRA": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "FRA"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "FRA"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "FRA"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "FRA"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "FRA"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "FRA"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "FRA"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "FRA"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "FRA"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "FRA"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "FRA"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "FRA"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "FRA"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "FRA"
+      },
+      "15": {
+        "collected": true,
+        "key": 15,
+        "team": "FRA"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "FRA"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "FRA"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "FRA"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "FRA"
+      },
+      "flag": "fr",
+      "name": "FRA"
+    },
+    "GER": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "GER"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "GER"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "GER"
+      },
+      "4": {
+        "collected": true,
+        "key": 4,
+        "team": "GER"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "GER"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "GER"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "GER"
+      },
+      "8": {
+        "collected": true,
+        "key": 8,
+        "team": "GER"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "GER"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "GER"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "GER"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "GER"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "GER"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "GER"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "GER"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "GER"
+      },
+      "17": {
+        "collected": true,
+        "key": 17,
+        "team": "GER"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "GER"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "GER"
+      },
+      "flag": "de",
+      "name": "GER"
+    },
+    "GHA": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "GHA"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "GHA"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "GHA"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "GHA"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "GHA"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "GHA"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "GHA"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "GHA"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "GHA"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "GHA"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "GHA"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "GHA"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "GHA"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "GHA"
+      },
+      "15": {
+        "collected": true,
+        "key": 15,
+        "team": "GHA"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "GHA"
+      },
+      "17": {
+        "collected": true,
+        "key": 17,
+        "team": "GHA"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "GHA"
+      },
+      "19": {
+        "collected": true,
+        "key": 19,
+        "team": "GHA"
+      },
+      "flag": "gn",
+      "name": "GHA"
+    },
+    "IRN": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "IRN"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "IRN"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "IRN"
+      },
+      "4": {
+        "collected": true,
+        "key": 4,
+        "team": "IRN"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "IRN"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "IRN"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "IRN"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "IRN"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "IRN"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "IRN"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "IRN"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "IRN"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "IRN"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "IRN"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "IRN"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "IRN"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "IRN"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "IRN"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "IRN"
+      },
+      "flag": "ir",
+      "name": "IRN"
+    },
+    "JPN": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "JPN"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "JPN"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "JPN"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "JPN"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "JPN"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "JPN"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "JPN"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "JPN"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "JPN"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "JPN"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "JPN"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "JPN"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "JPN"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "JPN"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "JPN"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "JPN"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "JPN"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "JPN"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "JPN"
+      },
+      "flag": "jp",
+      "name": "JPN"
+    },
+    "KOR": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "KOR"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "KOR"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "KOR"
+      },
+      "4": {
+        "collected": true,
+        "key": 4,
+        "team": "KOR"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "KOR"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "KOR"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "KOR"
+      },
+      "8": {
+        "collected": true,
+        "key": 8,
+        "team": "KOR"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "KOR"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "KOR"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "KOR"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "KOR"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "KOR"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "KOR"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "KOR"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "KOR"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "KOR"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "KOR"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "KOR"
+      },
+      "flag": "kr",
+      "name": "KOR"
+    },
+    "KSA": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "KSA"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "KSA"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "KSA"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "KSA"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "KSA"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "KSA"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "KSA"
+      },
+      "8": {
+        "collected": true,
+        "key": 8,
+        "team": "KSA"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "KSA"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "KSA"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "KSA"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "KSA"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "KSA"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "KSA"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "KSA"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "KSA"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "KSA"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "KSA"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "KSA"
+      },
+      "flag": "sa",
+      "name": "KSA"
+    },
+    "MAR": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "MAR"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "MAR"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "MAR"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "MAR"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "MAR"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "MAR"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "MAR"
+      },
+      "8": {
+        "collected": true,
+        "key": 8,
+        "team": "MAR"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "MAR"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "MAR"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "MAR"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "MAR"
+      },
+      "13": {
+        "collected": true,
+        "key": 13,
+        "team": "MAR"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "MAR"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "MAR"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "MAR"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "MAR"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "MAR"
+      },
+      "19": {
+        "collected": true,
+        "key": 19,
+        "team": "MAR"
+      },
+      "flag": "ma",
+      "name": "MAR"
+    },
+    "MEX": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "MEX"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "MEX"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "MEX"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "MEX"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "MEX"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "MEX"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "MEX"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "MEX"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "MEX"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "MEX"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "MEX"
+      },
+      "12": {
+        "collected": true,
+        "key": 12,
+        "team": "MEX"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "MEX"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "MEX"
+      },
+      "15": {
+        "collected": true,
+        "key": 15,
+        "team": "MEX"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "MEX"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "MEX"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "MEX"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "MEX"
+      },
+      "flag": "mx",
+      "name": "MEX"
+    },
+    "NED": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "NED"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "NED"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "NED"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "NED"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "NED"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "NED"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "NED"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "NED"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "NED"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "NED"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "NED"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "NED"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "NED"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "NED"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "NED"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "NED"
+      },
+      "17": {
+        "collected": true,
+        "key": 17,
+        "team": "NED"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "NED"
+      },
+      "19": {
+        "collected": true,
+        "key": 19,
+        "team": "NED"
+      },
+      "flag": "nl",
+      "name": "NED"
+    },
+    "POL": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "POL"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "POL"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "POL"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "POL"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "POL"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "POL"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "POL"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "POL"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "POL"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "POL"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "POL"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "POL"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "POL"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "POL"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "POL"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "POL"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "POL"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "POL"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "POL"
+      },
+      "flag": "pl",
+      "name": "POL"
+    },
+    "POR": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "POR"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "POR"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "POR"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "POR"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "POR"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "POR"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "POR"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "POR"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "POR"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "POR"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "POR"
+      },
+      "12": {
+        "collected": true,
+        "key": 12,
+        "team": "POR"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "POR"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "POR"
+      },
+      "15": {
+        "collected": true,
+        "key": 15,
+        "team": "POR"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "POR"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "POR"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "POR"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "POR"
+      },
+      "flag": "pt",
+      "name": "POR"
+    },
+    "QTA": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "QTA"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "QTA"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "QTA"
+      },
+      "4": {
+        "collected": true,
+        "key": 4,
+        "team": "QTA"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "QTA"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "QTA"
+      },
+      "7": {
+        "collected": true,
+        "key": 7,
+        "team": "QTA"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "QTA"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "QTA"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "QTA"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "QTA"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "QTA"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "QTA"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "QTA"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "QTA"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "QTA"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "QTA"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "QTA"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "QTA"
+      },
+      "flag": "qa",
+      "name": "QTA"
+    },
+    "SEN": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "SEN"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "SEN"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "SEN"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "SEN"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "SEN"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "SEN"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "SEN"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "SEN"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "SEN"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "SEN"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "SEN"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "SEN"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "SEN"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "SEN"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "SEN"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "SEN"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "SEN"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "SEN"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "SEN"
+      },
+      "flag": "sn",
+      "name": "SEN"
+    },
+    "SRB": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "SRB"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "SRB"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "SRB"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "SRB"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "SRB"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "SRB"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "SRB"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "SRB"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "SRB"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "SRB"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "SRB"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "SRB"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "SRB"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "SRB"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "SRB"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "SRB"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "SRB"
+      },
+      "18": {
+        "collected": true,
+        "key": 18,
+        "team": "SRB"
+      },
+      "19": {
+        "collected": true,
+        "key": 19,
+        "team": "SRB"
+      },
+      "flag": "rs",
+      "name": "SRB"
+    },
+    "SUI": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "SUI"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "SUI"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "SUI"
+      },
+      "4": {
+        "collected": true,
+        "key": 4,
+        "team": "SUI"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "SUI"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "SUI"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "SUI"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "SUI"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "SUI"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "SUI"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "SUI"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "SUI"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "SUI"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "SUI"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "SUI"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "SUI"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "SUI"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "SUI"
+      },
+      "19": {
+        "collected": true,
+        "key": 19,
+        "team": "SUI"
+      },
+      "flag": "ch",
+      "name": "SUI"
+    },
+    "TUN": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "TUN"
+      },
+      "2": {
+        "collected": true,
+        "key": 2,
+        "team": "TUN"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "TUN"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "TUN"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "TUN"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "TUN"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "TUN"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "TUN"
+      },
+      "9": {
+        "collected": true,
+        "key": 9,
+        "team": "TUN"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "TUN"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "TUN"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "TUN"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "TUN"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "TUN"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "TUN"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "TUN"
+      },
+      "17": {
+        "collected": true,
+        "key": 17,
+        "team": "TUN"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "TUN"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "TUN"
+      },
+      "flag": "tn",
+      "name": "TUN"
+    },
+    "URU": {
+      "1": {
+        "collected": true,
+        "key": 1,
+        "team": "URU"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "URU"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "URU"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "URU"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "URU"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "URU"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "URU"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "URU"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "URU"
+      },
+      "10": {
+        "collected": true,
+        "key": 10,
+        "team": "URU"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "URU"
+      },
+      "12": {
+        "collected": true,
+        "key": 12,
+        "team": "URU"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "URU"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "URU"
+      },
+      "15": {
+        "collected": true,
+        "key": 15,
+        "team": "URU"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "URU"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "URU"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "URU"
+      },
+      "19": {
+        "collected": true,
+        "key": 19,
+        "team": "URU"
+      },
+      "flag": "uy",
+      "name": "URU"
+    },
+    "USA": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "USA"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "USA"
+      },
+      "3": {
+        "collected": true,
+        "key": 3,
+        "team": "USA"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "USA"
+      },
+      "5": {
+        "collected": false,
+        "key": 5,
+        "team": "USA"
+      },
+      "6": {
+        "collected": false,
+        "key": 6,
+        "team": "USA"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "USA"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "USA"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "USA"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "USA"
+      },
+      "11": {
+        "collected": false,
+        "key": 11,
+        "team": "USA"
+      },
+      "12": {
+        "collected": false,
+        "key": 12,
+        "team": "USA"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "USA"
+      },
+      "14": {
+        "collected": true,
+        "key": 14,
+        "team": "USA"
+      },
+      "15": {
+        "collected": true,
+        "key": 15,
+        "team": "USA"
+      },
+      "16": {
+        "collected": false,
+        "key": 16,
+        "team": "USA"
+      },
+      "17": {
+        "collected": true,
+        "key": 17,
+        "team": "USA"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "USA"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "USA"
+      },
+      "flag": "us",
+      "name": "USA"
+    },
+    "WAL": {
+      "1": {
+        "collected": false,
+        "key": 1,
+        "team": "WAL"
+      },
+      "2": {
+        "collected": false,
+        "key": 2,
+        "team": "WAL"
+      },
+      "3": {
+        "collected": false,
+        "key": 3,
+        "team": "WAL"
+      },
+      "4": {
+        "collected": false,
+        "key": 4,
+        "team": "WAL"
+      },
+      "5": {
+        "collected": true,
+        "key": 5,
+        "team": "WAL"
+      },
+      "6": {
+        "collected": true,
+        "key": 6,
+        "team": "WAL"
+      },
+      "7": {
+        "collected": false,
+        "key": 7,
+        "team": "WAL"
+      },
+      "8": {
+        "collected": false,
+        "key": 8,
+        "team": "WAL"
+      },
+      "9": {
+        "collected": false,
+        "key": 9,
+        "team": "WAL"
+      },
+      "10": {
+        "collected": false,
+        "key": 10,
+        "team": "WAL"
+      },
+      "11": {
+        "collected": true,
+        "key": 11,
+        "team": "WAL"
+      },
+      "12": {
+        "collected": true,
+        "key": 12,
+        "team": "WAL"
+      },
+      "13": {
+        "collected": false,
+        "key": 13,
+        "team": "WAL"
+      },
+      "14": {
+        "collected": false,
+        "key": 14,
+        "team": "WAL"
+      },
+      "15": {
+        "collected": false,
+        "key": 15,
+        "team": "WAL"
+      },
+      "16": {
+        "collected": true,
+        "key": 16,
+        "team": "WAL"
+      },
+      "17": {
+        "collected": false,
+        "key": 17,
+        "team": "WAL"
+      },
+      "18": {
+        "collected": false,
+        "key": 18,
+        "team": "WAL"
+      },
+      "19": {
+        "collected": false,
+        "key": 19,
+        "team": "WAL"
+      },
+      "flag": "gb-wls",
+      "name": "WAL"
+    }
+  }
+}

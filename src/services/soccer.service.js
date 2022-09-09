@@ -65,6 +65,13 @@ class soccerService {
 
     return update(ref(database), updates);
     }
+
+    repeatedPlayer(team, player, repeated){
+        const updates = {};
+        updates['/teams/'+team+'/'+player+'/repeated'] = repeated;
+    
+        return update(ref(database), updates);
+    }
 };
 
 export default soccerService;
