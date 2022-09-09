@@ -89,7 +89,7 @@ class MainComponent extends react.Component {
                 <div>
                     <h2>Laminas repetidas</h2>
                     <div>
-                        {this.state.repeatedPlayers.map(player => <p className='player-repeated-txt'>{player}</p>)}
+                        {this.state.repeatedPlayers.map(player => <div className='player-repeated-txt-container'><p className='player-repeated-txt'>{player}</p><span>&nbsp;-&nbsp;</span></div>)}
                     </div>
                 </div>
             </div>

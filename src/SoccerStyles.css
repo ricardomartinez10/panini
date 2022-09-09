@@ -117,5 +117,8 @@ h1,h2 {
 
 .player-repeated-txt {
     display: inline-block;
-    margin-right: 10px;
+}
+
+.player-repeated-txt-container {
+    display: inline-block;
 }
