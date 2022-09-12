@@ -56,24 +56,28 @@ class MainComponent extends react.Component {
     }
 
     getRepeatedplayers = (teams) => {
-        const repeated = [];
         var players = [];
-
+        const repeated = [];
+        
         teams.forEach(team => {
+            const squad = {
+                players: []
+            };
             players = Object.values(team);
             players.forEach((player) => {
                 if (player.repeated) {
-                    repeated.push(player);
+                    squad.name = player.team;
+                    squad.players.push(player);
                 }
-            })
-        });
+            });
 
-        const tiiles = repeated.map((player) => {
-            return player.team + player.key;
+            if (squad.hasOwnProperty('name')){
+                repeated.push(squad);
+            }
         });
 
         this.setState({
-            repeatedPlayers: tiiles
+            repeatedPlayers: repeated
         });
     }
 
@@ -89,7 +93,13 @@ class MainComponent extends react.Component {
                 <div>
                     <h2>Laminas repetidas</h2>
                     <div>
-                        {this.state.repeatedPlayers.map(player => <div className='player-repeated-txt-container'><p className='player-repeated-txt'>{player}</p><span>&nbsp;-&nbsp;</span></div>)}
+                        {this.state.repeatedPlayers.map((team, index) => 
+                        <div key={index.toString()} className=''>
+                            <p className=''>
+                                {team.name}:&nbsp; {team.players.map((player, index) => <span key={player.key}>{player.key} 
+                                    {index + 1 < team.players.length ? <span>&nbsp;-&nbsp;</span> : null}</span>)}
+                            </p>
+                        </div>)}
                     </div>
                 </div>
             </div>
