@@ -84,18 +84,18 @@ class MainComponent extends react.Component {
     render() {
         return(
             <div className='main-container'>
-                <h1>Laminas mundial 2022</h1>
+                <h1>Láminas mundial 2022</h1>
                 <BasicModal openModal={this.state.openModal} closeModal={this.closeModal} playerData={this.state.playerData}></BasicModal>
                 {this.state.data.length ? this.renderTeamLines(): (
                     <p>Loading</p>
                 )}
                 <hr></hr>
                 <div>
-                    <h2>Laminas repetidas</h2>
+                    <h2>Láminas repetidas</h2>
                     <div>
                         {this.state.repeatedPlayers.map((team, index) => 
                         <div key={index.toString()} className=''>
-                            <p className=''>
+                            <p className='player-repeated-txt'>
                                 {team.name}:&nbsp; {team.players.map((player, index) => <span key={player.key}>{player.key} 
                                     {index + 1 < team.players.length ? <span>&nbsp;-&nbsp;</span> : null}</span>)}
                             </p>

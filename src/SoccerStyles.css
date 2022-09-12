@@ -116,9 +116,6 @@ h1,h2 {
 }
 
 .player-repeated-txt {
-    display: inline-block;
-}
-
-.player-repeated-txt-container {
-    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
 }
