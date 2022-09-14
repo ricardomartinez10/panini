@@ -12,7 +12,8 @@ class MainComponent extends react.Component {
             data: [],
             openModal: false,
             playerData: {},
-            repeatedPlayers: []
+            repeatedPlayers: [],
+            collectedTotal: 0
         }
         this.service = new soccerService();
         //this.service.addGems();
@@ -57,7 +58,9 @@ class MainComponent extends react.Component {
 
     getRepeatedplayers = (teams) => {
         var players = [];
+        var collectedPlayers = 0;
         const repeated = [];
+
         
         teams.forEach(team => {
             const squad = {
@@ -69,15 +72,21 @@ class MainComponent extends react.Component {
                     squad.name = player.team;
                     squad.players.push(player);
                 }
+
+                if (player.collected) {
+                    collectedPlayers++;
+                }
             });
 
             if (squad.hasOwnProperty('name')){
                 repeated.push(squad);
             }
         });
+        
 
         this.setState({
-            repeatedPlayers: repeated
+            repeatedPlayers: repeated,
+            collectedTotal: collectedPlayers
         });
     }
 
@@ -101,6 +110,9 @@ class MainComponent extends react.Component {
                             </p>
                         </div>)}
                     </div>
+                </div>
+                <div>
+                    <p>Total colleccionadas: {this.state.collectedTotal}</p>
                 </div>
             </div>
         )
