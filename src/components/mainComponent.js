@@ -112,7 +112,7 @@ class MainComponent extends react.Component {
                     </div>
                 </div>
                 <div>
-                    <p>Total colleccionadas: {this.state.collectedTotal}</p>
+                    <p>Total coleccionadas: {this.state.collectedTotal}</p>
                 </div>
             </div>
         )
