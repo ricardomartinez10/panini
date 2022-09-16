@@ -13,7 +13,8 @@ class MainComponent extends react.Component {
             openModal: false,
             playerData: {},
             repeatedPlayers: [],
-            collectedTotal: 0
+            collectedTotal: 0,
+            totalRepeated: 0
         }
         this.service = new soccerService();
         //this.service.addGems();
@@ -25,6 +26,7 @@ class MainComponent extends react.Component {
         onValue(query, (snapshot) => {
             const response = snapshot.val();
             const teams = Object.values(response);
+            teams.sort((a,b) => a.order - b.order);
             this.setState({
                 data: teams
             });
@@ -59,6 +61,7 @@ class MainComponent extends react.Component {
     getRepeatedplayers = (teams) => {
         var players = [];
         var collectedPlayers = 0;
+        var totalRepeated = 0;
         const repeated = [];
 
         
@@ -69,6 +72,7 @@ class MainComponent extends react.Component {
             players = Object.values(team);
             players.forEach((player) => {
                 if (player.repeated) {
+                    totalRepeated++;
                     squad.name = player.team;
                     squad.players.push(player);
                 }
@@ -86,7 +90,8 @@ class MainComponent extends react.Component {
 
         this.setState({
             repeatedPlayers: repeated,
-            collectedTotal: collectedPlayers
+            collectedTotal: collectedPlayers,
+            totalRepeated: totalRepeated
         });
     }
 
@@ -113,6 +118,7 @@ class MainComponent extends react.Component {
                 </div>
                 <div>
                     <p>Total coleccionadas: {this.state.collectedTotal}</p>
+                    <p>Total repetidas: {this.state.totalRepeated}</p>
                 </div>
             </div>
         )

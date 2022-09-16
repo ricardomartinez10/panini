@@ -4,11 +4,13 @@
       "1": {
         "collected": true,
         "key": 1,
+        "repeated": false,
         "team": "ARG"
       },
       "2": {
         "collected": true,
         "key": 2,
+        "repeated": false,
         "team": "ARG"
       },
       "3": {
@@ -19,11 +21,13 @@
       "4": {
         "collected": false,
         "key": 4,
+        "repeated": false,
         "team": "ARG"
       },
       "5": {
         "collected": true,
         "key": 5,
+        "repeated": false,
         "team": "ARG"
       },
       "6": {
@@ -37,7 +41,7 @@
         "team": "ARG"
       },
       "8": {
-        "collected": false,
+        "collected": true,
         "key": 8,
         "team": "ARG"
       },
@@ -49,6 +53,7 @@
       "10": {
         "collected": true,
         "key": 10,
+        "repeated": false,
         "team": "ARG"
       },
       "11": {
@@ -62,12 +67,13 @@
         "team": "ARG"
       },
       "13": {
-        "collected": false,
+        "collected": true,
         "key": 13,
+        "repeated": false,
         "team": "ARG"
       },
       "14": {
-        "collected": false,
+        "collected": true,
         "key": 14,
         "team": "ARG"
       },
@@ -82,7 +88,7 @@
         "team": "ARG"
       },
       "17": {
-        "collected": false,
+        "collected": true,
         "key": 17,
         "team": "ARG"
       },
@@ -97,7 +103,8 @@
         "team": "ARG"
       },
       "flag": "ar",
-      "name": "ARG"
+      "name": "ARG",
+      "order": 9
     },
     "AUS": {
       "1": {
@@ -141,7 +148,7 @@
         "team": "AUS"
       },
       "9": {
-        "collected": false,
+        "collected": true,
         "key": 9,
         "team": "AUS"
       },
@@ -168,6 +175,7 @@
       "14": {
         "collected": true,
         "key": 14,
+        "repeated": true,
         "team": "AUS"
       },
       "15": {
@@ -181,7 +189,7 @@
         "team": "AUS"
       },
       "17": {
-        "collected": false,
+        "collected": true,
         "key": 17,
         "team": "AUS"
       },
@@ -196,7 +204,8 @@
         "team": "AUS"
       },
       "flag": "au",
-      "name": "AUS"
+      "name": "AUS",
+      "order": 14
     },
     "BEL": {
       "1": {
@@ -215,7 +224,7 @@
         "team": "BEL"
       },
       "4": {
-        "collected": false,
+        "collected": true,
         "key": 4,
         "team": "BEL"
       },
@@ -265,13 +274,14 @@
         "team": "BEL"
       },
       "14": {
-        "collected": false,
+        "collected": true,
         "key": 14,
         "team": "BEL"
       },
       "15": {
         "collected": true,
         "key": 15,
+        "repeated": true,
         "team": "BEL"
       },
       "16": {
@@ -295,7 +305,8 @@
         "team": "BEL"
       },
       "flag": "be",
-      "name": "BEL"
+      "name": "BEL",
+      "order": 21
     },
     "BRA": {
       "1": {
@@ -304,7 +315,7 @@
         "team": "BRA"
       },
       "2": {
-        "collected": false,
+        "collected": true,
         "key": 2,
         "team": "BRA"
       },
@@ -394,7 +405,8 @@
         "team": "BRA"
       },
       "flag": "br",
-      "name": "BRA"
+      "name": "BRA",
+      "order": 25
     },
     "CAN": {
       "1": {
@@ -425,6 +437,7 @@
       "6": {
         "collected": true,
         "key": 6,
+        "repeated": true,
         "team": "CAN"
       },
       "7": {
@@ -443,7 +456,7 @@
         "team": "CAN"
       },
       "10": {
-        "collected": false,
+        "collected": true,
         "key": 10,
         "team": "CAN"
       },
@@ -478,12 +491,12 @@
         "team": "CAN"
       },
       "17": {
-        "collected": false,
+        "collected": true,
         "key": 17,
         "team": "CAN"
       },
       "18": {
-        "collected": false,
+        "collected": true,
         "key": 18,
         "team": "CAN"
       },
@@ -493,7 +506,8 @@
         "team": "CAN"
       },
       "flag": "ca",
-      "name": "CAN"
+      "name": "CAN",
+      "order": 22
     },
     "CRC": {
       "1": {
@@ -512,7 +526,7 @@
         "team": "CRC"
       },
       "4": {
-        "collected": false,
+        "collected": true,
         "key": 4,
         "team": "CRC"
       },
@@ -529,21 +543,23 @@
       "7": {
         "collected": true,
         "key": 7,
+        "repeated": true,
         "team": "CRC"
       },
       "8": {
-        "collected": false,
+        "collected": true,
         "key": 8,
         "team": "CRC"
       },
       "9": {
-        "collected": false,
+        "collected": true,
         "key": 9,
         "team": "CRC"
       },
       "10": {
         "collected": true,
         "key": 10,
+        "repeated": true,
         "team": "CRC"
       },
       "11": {
@@ -592,11 +608,12 @@
         "team": "CRC"
       },
       "flag": "cr",
-      "name": "CRC"
+      "name": "CRC",
+      "order": 18
     },
     "CRM": {
       "1": {
-        "collected": false,
+        "collected": true,
         "key": 1,
         "team": "CRM"
       },
@@ -626,7 +643,7 @@
         "team": "CRM"
       },
       "7": {
-        "collected": false,
+        "collected": true,
         "key": 7,
         "team": "CRM"
       },
@@ -683,15 +700,17 @@
       "18": {
         "collected": true,
         "key": 18,
+        "repeated": true,
         "team": "CRM"
       },
       "19": {
-        "collected": false,
+        "collected": true,
         "key": 19,
         "team": "CRM"
       },
       "flag": "cm",
-      "name": "CRM"
+      "name": "CRM",
+      "orde": 28
     },
     "CRO": {
       "1": {
@@ -727,6 +746,7 @@
       "7": {
         "collected": true,
         "key": 7,
+        "repeated": true,
         "team": "CRO"
       },
       "8": {
@@ -760,7 +780,7 @@
         "team": "CRO"
       },
       "14": {
-        "collected": false,
+        "collected": true,
         "key": 14,
         "team": "CRO"
       },
@@ -790,7 +810,8 @@
         "team": "CRO"
       },
       "flag": "hr",
-      "name": "CRO"
+      "name": "CRO",
+      "order": 24
     },
     "DEN": {
       "1": {
@@ -809,7 +830,7 @@
         "team": "DEN"
       },
       "4": {
-        "collected": false,
+        "collected": true,
         "key": 4,
         "team": "DEN"
       },
@@ -844,18 +865,19 @@
         "team": "DEN"
       },
       "11": {
-        "collected": false,
+        "collected": true,
         "key": 11,
         "team": "DEN"
       },
       "12": {
-        "collected": false,
+        "collected": true,
         "key": 12,
         "team": "DEN"
       },
       "13": {
         "collected": true,
         "key": 13,
+        "repeated": true,
         "team": "DEN"
       },
       "14": {
@@ -869,7 +891,7 @@
         "team": "DEN"
       },
       "16": {
-        "collected": false,
+        "collected": true,
         "key": 16,
         "team": "DEN"
       },
@@ -881,15 +903,17 @@
       "18": {
         "collected": true,
         "key": 18,
+        "repeated": true,
         "team": "DEN"
       },
       "19": {
-        "collected": false,
+        "collected": true,
         "key": 19,
         "team": "DEN"
       },
       "flag": "dk",
-      "name": "DEN"
+      "name": "DEN",
+      "order": 15
     },
     "ECU": {
       "1": {
@@ -905,6 +929,7 @@
       "3": {
         "collected": true,
         "key": 3,
+        "repeated": true,
         "team": "ECU"
       },
       "4": {
@@ -913,23 +938,24 @@
         "team": "ECU"
       },
       "5": {
-        "collected": false,
+        "collected": true,
         "key": 5,
         "team": "ECU"
       },
       "6": {
-        "collected": false,
+        "collected": true,
         "key": 6,
         "team": "ECU"
       },
       "7": {
-        "collected": false,
+        "collected": true,
         "key": 7,
         "team": "ECU"
       },
       "8": {
         "collected": true,
         "key": 8,
+        "repeated": true,
         "team": "ECU"
       },
       "9": {
@@ -948,7 +974,7 @@
         "team": "ECU"
       },
       "12": {
-        "collected": false,
+        "collected": true,
         "key": 12,
         "team": "ECU"
       },
@@ -988,7 +1014,8 @@
         "team": "ECU"
       },
       "flag": "ec",
-      "name": "ECU"
+      "name": "ECU",
+      "order": 2
     },
     "ENG": {
       "1": {
@@ -1017,7 +1044,7 @@
         "team": "ENG"
       },
       "6": {
-        "collected": false,
+        "collected": true,
         "key": 6,
         "team": "ENG"
       },
@@ -1027,7 +1054,7 @@
         "team": "ENG"
       },
       "8": {
-        "collected": false,
+        "collected": true,
         "key": 8,
         "team": "ENG"
       },
@@ -1047,7 +1074,7 @@
         "team": "ENG"
       },
       "12": {
-        "collected": false,
+        "collected": true,
         "key": 12,
         "team": "ENG"
       },
@@ -1059,6 +1086,7 @@
       "14": {
         "collected": true,
         "key": 14,
+        "repeated": true,
         "team": "ENG"
       },
       "15": {
@@ -1087,7 +1115,8 @@
         "team": "ENG"
       },
       "flag": "gb-eng",
-      "name": "ENG"
+      "name": "ENG",
+      "order": 5
     },
     "ESP": {
       "1": {
@@ -1098,6 +1127,7 @@
       "2": {
         "collected": true,
         "key": 2,
+        "repeated": true,
         "team": "ESP"
       },
       "3": {
@@ -1161,7 +1191,7 @@
         "team": "ESP"
       },
       "15": {
-        "collected": false,
+        "collected": true,
         "key": 15,
         "team": "ESP"
       },
@@ -1171,7 +1201,7 @@
         "team": "ESP"
       },
       "17": {
-        "collected": false,
+        "collected": true,
         "key": 17,
         "team": "ESP"
       },
@@ -1186,145 +1216,180 @@
         "team": "ESP"
       },
       "flag": "es",
-      "name": "ESP"
+      "name": "ESP",
+      "order": 17
     },
-    "FIFA": {
+    "FWC": {
       "1": {
         "collected": false,
-        "key": "1"
+        "key": "1",
+        "team": "FWC"
       },
       "2": {
         "collected": true,
-        "key": "2"
+        "key": "2",
+        "team": "FWC"
       },
       "3": {
         "collected": false,
-        "key": "3"
+        "key": "3",
+        "team": "FWC"
       },
       "4": {
         "collected": true,
-        "key": "4"
+        "key": "4",
+        "team": "FWC"
       },
       "5": {
         "collected": false,
-        "key": "5"
+        "key": "5",
+        "team": "FWC"
       },
       "6": {
         "collected": false,
-        "key": "6"
+        "key": "6",
+        "team": "FWC"
       },
       "7": {
         "collected": true,
-        "key": "7"
+        "key": "7",
+        "team": "FWC"
       },
       "8": {
         "collected": false,
-        "key": "8"
+        "key": "8",
+        "team": "FWC"
       },
       "9": {
         "collected": false,
-        "key": "9"
+        "key": "9",
+        "team": "FWC"
       },
       "10": {
         "collected": false,
-        "key": "10"
+        "key": "10",
+        "team": "FWC"
       },
       "11": {
         "collected": true,
-        "key": "11"
+        "key": "11",
+        "repeated": true,
+        "team": "FWC"
       },
       "12": {
         "collected": false,
-        "key": "12"
+        "key": "12",
+        "team": "FWC"
       },
       "13": {
         "collected": false,
-        "key": "13"
+        "key": "13",
+        "team": "FWC"
       },
       "14": {
         "collected": true,
-        "key": "14"
+        "key": "14",
+        "team": "FWC"
       },
       "15": {
         "collected": false,
-        "key": "15"
+        "key": "15",
+        "team": "FWC"
       },
       "16": {
         "collected": false,
-        "key": "16"
+        "key": "16",
+        "team": "FWC"
       },
       "17": {
         "collected": false,
-        "key": "17"
+        "key": "17",
+        "team": "FWC"
       },
       "18": {
         "collected": false,
-        "key": "18"
+        "key": "18",
+        "team": "FWC"
       },
       "19": {
         "collected": true,
-        "key": "19"
+        "key": "19",
+        "team": "FWC"
       },
       "20": {
         "collected": false,
-        "key": "20"
+        "key": "20",
+        "team": "FWC"
       },
       "21": {
         "collected": true,
-        "key": "21"
+        "key": "21",
+        "team": "FWC"
       },
       "22": {
         "collected": false,
-        "key": "22"
+        "key": "22",
+        "team": "FWC"
       },
       "23": {
         "collected": false,
-        "key": "23"
+        "key": "23",
+        "team": "FWC"
       },
       "24": {
         "collected": false,
-        "key": "24"
+        "key": "24",
+        "team": "FWC"
       },
       "25": {
         "collected": true,
-        "key": "25"
+        "key": "25",
+        "team": "FWC"
       },
       "26": {
         "collected": false,
-        "key": "26"
+        "key": "26",
+        "team": "FWC"
       },
       "27": {
         "collected": false,
-        "key": "27"
+        "key": "27",
+        "team": "FWC"
       },
       "28": {
         "collected": true,
-        "key": "28"
+        "key": "28",
+        "repeated": false,
+        "team": "FWC"
       },
       "29": {
         "collected": false,
-        "key": "29"
+        "key": "29",
+        "team": "FWC"
       },
       "00": {
         "collected": false,
-        "key": "00"
+        "key": "00",
+        "team": "FWC"
       },
       "flag": "co",
-      "name": "FIFA"
+      "name": "FWC",
+      "order": 0
     },
     "FRA": {
       "1": {
-        "collected": false,
+        "collected": true,
         "key": 1,
         "team": "FRA"
       },
       "2": {
         "collected": true,
         "key": 2,
+        "repeated": false,
         "team": "FRA"
       },
       "3": {
-        "collected": false,
+        "collected": true,
         "key": 3,
         "team": "FRA"
       },
@@ -1369,7 +1434,7 @@
         "team": "FRA"
       },
       "12": {
-        "collected": false,
+        "collected": true,
         "key": 12,
         "team": "FRA"
       },
@@ -1399,7 +1464,7 @@
         "team": "FRA"
       },
       "18": {
-        "collected": false,
+        "collected": true,
         "key": 18,
         "team": "FRA"
       },
@@ -1409,7 +1474,8 @@
         "team": "FRA"
       },
       "flag": "fr",
-      "name": "FRA"
+      "name": "FRA",
+      "order": 13
     },
     "GER": {
       "1": {
@@ -1418,12 +1484,12 @@
         "team": "GER"
       },
       "2": {
-        "collected": false,
+        "collected": true,
         "key": 2,
         "team": "GER"
       },
       "3": {
-        "collected": false,
+        "collected": true,
         "key": 3,
         "team": "GER"
       },
@@ -1443,7 +1509,7 @@
         "team": "GER"
       },
       "7": {
-        "collected": false,
+        "collected": true,
         "key": 7,
         "team": "GER"
       },
@@ -1463,7 +1529,7 @@
         "team": "GER"
       },
       "11": {
-        "collected": false,
+        "collected": true,
         "key": 11,
         "team": "GER"
       },
@@ -1508,7 +1574,8 @@
         "team": "GER"
       },
       "flag": "de",
-      "name": "GER"
+      "name": "GER",
+      "order": 19
     },
     "GHA": {
       "1": {
@@ -1527,7 +1594,7 @@
         "team": "GHA"
       },
       "4": {
-        "collected": false,
+        "collected": true,
         "key": 4,
         "team": "GHA"
       },
@@ -1594,10 +1661,11 @@
       "17": {
         "collected": true,
         "key": 17,
+        "repeated": true,
         "team": "GHA"
       },
       "18": {
-        "collected": false,
+        "collected": true,
         "key": 18,
         "team": "GHA"
       },
@@ -1607,7 +1675,8 @@
         "team": "GHA"
       },
       "flag": "gn",
-      "name": "GHA"
+      "name": "GHA",
+      "order": 30
     },
     "IRN": {
       "1": {
@@ -1628,6 +1697,7 @@
       "4": {
         "collected": true,
         "key": 4,
+        "repeated": true,
         "team": "IRN"
       },
       "5": {
@@ -1661,7 +1731,7 @@
         "team": "IRN"
       },
       "11": {
-        "collected": false,
+        "collected": true,
         "key": 11,
         "team": "IRN"
       },
@@ -1696,7 +1766,7 @@
         "team": "IRN"
       },
       "18": {
-        "collected": false,
+        "collected": true,
         "key": 18,
         "team": "IRN"
       },
@@ -1706,7 +1776,8 @@
         "team": "IRN"
       },
       "flag": "ir",
-      "name": "IRN"
+      "name": "IRN",
+      "order": 6
     },
     "JPN": {
       "1": {
@@ -1722,6 +1793,7 @@
       "3": {
         "collected": true,
         "key": 3,
+        "repeated": true,
         "team": "JPN"
       },
       "4": {
@@ -1735,7 +1807,7 @@
         "team": "JPN"
       },
       "6": {
-        "collected": false,
+        "collected": true,
         "key": 6,
         "team": "JPN"
       },
@@ -1805,7 +1877,8 @@
         "team": "JPN"
       },
       "flag": "jp",
-      "name": "JPN"
+      "name": "JPN",
+      "order": 20
     },
     "KOR": {
       "1": {
@@ -1839,7 +1912,7 @@
         "team": "KOR"
       },
       "7": {
-        "collected": false,
+        "collected": true,
         "key": 7,
         "team": "KOR"
       },
@@ -1859,7 +1932,7 @@
         "team": "KOR"
       },
       "11": {
-        "collected": false,
+        "collected": true,
         "key": 11,
         "team": "KOR"
       },
@@ -1904,7 +1977,8 @@
         "team": "KOR"
       },
       "flag": "kr",
-      "name": "KOR"
+      "name": "KOR",
+      "order": 32
     },
     "KSA": {
       "1": {
@@ -1935,6 +2009,7 @@
       "6": {
         "collected": true,
         "key": 6,
+        "repeated": true,
         "team": "KSA"
       },
       "7": {
@@ -2003,7 +2078,8 @@
         "team": "KSA"
       },
       "flag": "sa",
-      "name": "KSA"
+      "name": "KSA",
+      "order": 10
     },
     "MAR": {
       "1": {
@@ -2019,6 +2095,7 @@
       "3": {
         "collected": true,
         "key": 3,
+        "repeated": true,
         "team": "MAR"
       },
       "4": {
@@ -2029,6 +2106,7 @@
       "5": {
         "collected": true,
         "key": 5,
+        "repeated": true,
         "team": "MAR"
       },
       "6": {
@@ -2062,13 +2140,14 @@
         "team": "MAR"
       },
       "12": {
-        "collected": false,
+        "collected": true,
         "key": 12,
         "team": "MAR"
       },
       "13": {
         "collected": true,
         "key": 13,
+        "repeated": true,
         "team": "MAR"
       },
       "14": {
@@ -2102,7 +2181,8 @@
         "team": "MAR"
       },
       "flag": "ma",
-      "name": "MAR"
+      "name": "MAR",
+      "order": 23
     },
     "MEX": {
       "1": {
@@ -2121,17 +2201,17 @@
         "team": "MEX"
       },
       "4": {
-        "collected": false,
+        "collected": true,
         "key": 4,
         "team": "MEX"
       },
       "5": {
-        "collected": false,
+        "collected": true,
         "key": 5,
         "team": "MEX"
       },
       "6": {
-        "collected": false,
+        "collected": true,
         "key": 6,
         "team": "MEX"
       },
@@ -2141,7 +2221,7 @@
         "team": "MEX"
       },
       "8": {
-        "collected": false,
+        "collected": true,
         "key": 8,
         "team": "MEX"
       },
@@ -2193,6 +2273,7 @@
       "18": {
         "collected": true,
         "key": 18,
+        "repeated": true,
         "team": "MEX"
       },
       "19": {
@@ -2201,11 +2282,12 @@
         "team": "MEX"
       },
       "flag": "mx",
-      "name": "MEX"
+      "name": "MEX",
+      "order": 11
     },
     "NED": {
       "1": {
-        "collected": false,
+        "collected": true,
         "key": 1,
         "team": "NED"
       },
@@ -2217,6 +2299,7 @@
       "3": {
         "collected": true,
         "key": 3,
+        "repeated": true,
         "team": "NED"
       },
       "4": {
@@ -2230,7 +2313,7 @@
         "team": "NED"
       },
       "6": {
-        "collected": false,
+        "collected": true,
         "key": 6,
         "team": "NED"
       },
@@ -2300,7 +2383,8 @@
         "team": "NED"
       },
       "flag": "nl",
-      "name": "NED"
+      "name": "NED",
+      "order": 4
     },
     "POL": {
       "1": {
@@ -2309,8 +2393,9 @@
         "team": "POL"
       },
       "2": {
-        "collected": false,
+        "collected": true,
         "key": 2,
+        "repeated": true,
         "team": "POL"
       },
       "3": {
@@ -2329,7 +2414,7 @@
         "team": "POL"
       },
       "6": {
-        "collected": false,
+        "collected": true,
         "key": 6,
         "team": "POL"
       },
@@ -2344,7 +2429,7 @@
         "team": "POL"
       },
       "9": {
-        "collected": false,
+        "collected": true,
         "key": 9,
         "team": "POL"
       },
@@ -2364,7 +2449,7 @@
         "team": "POL"
       },
       "13": {
-        "collected": false,
+        "collected": true,
         "key": 13,
         "team": "POL"
       },
@@ -2374,13 +2459,14 @@
         "team": "POL"
       },
       "15": {
-        "collected": false,
+        "collected": true,
         "key": 15,
         "team": "POL"
       },
       "16": {
-        "collected": false,
+        "collected": true,
         "key": 16,
+        "repeated": true,
         "team": "POL"
       },
       "17": {
@@ -2433,7 +2519,7 @@
         "team": "POR"
       },
       "7": {
-        "collected": false,
+        "collected": true,
         "key": 7,
         "team": "POR"
       },
@@ -2450,6 +2536,7 @@
       "10": {
         "collected": true,
         "key": 10,
+        "repeated": true,
         "team": "POR"
       },
       "11": {
@@ -2498,7 +2585,8 @@
         "team": "POR"
       },
       "flag": "pt",
-      "name": "POR"
+      "name": "POR",
+      "order": 29
     },
     "QTA": {
       "1": {
@@ -2524,16 +2612,18 @@
       "5": {
         "collected": true,
         "key": 5,
+        "repeated": true,
         "team": "QTA"
       },
       "6": {
-        "collected": false,
+        "collected": true,
         "key": 6,
         "team": "QTA"
       },
       "7": {
         "collected": true,
         "key": 7,
+        "repeated": true,
         "team": "QTA"
       },
       "8": {
@@ -2542,13 +2632,14 @@
         "team": "QTA"
       },
       "9": {
-        "collected": false,
+        "collected": true,
         "key": 9,
         "team": "QTA"
       },
       "10": {
         "collected": true,
         "key": 10,
+        "repeated": true,
         "team": "QTA"
       },
       "11": {
@@ -2569,10 +2660,11 @@
       "14": {
         "collected": true,
         "key": 14,
+        "repeated": true,
         "team": "QTA"
       },
       "15": {
-        "collected": false,
+        "collected": true,
         "key": 15,
         "team": "QTA"
       },
@@ -2587,17 +2679,18 @@
         "team": "QTA"
       },
       "18": {
-        "collected": false,
+        "collected": true,
         "key": 18,
         "team": "QTA"
       },
       "19": {
-        "collected": false,
+        "collected": true,
         "key": 19,
         "team": "QTA"
       },
       "flag": "qa",
-      "name": "QTA"
+      "name": "QTA",
+      "order": 1
     },
     "SEN": {
       "1": {
@@ -2696,7 +2789,8 @@
         "team": "SEN"
       },
       "flag": "sn",
-      "name": "SEN"
+      "name": "SEN",
+      "order": 3
     },
     "SRB": {
       "1": {
@@ -2780,7 +2874,7 @@
         "team": "SRB"
       },
       "17": {
-        "collected": false,
+        "collected": true,
         "key": 17,
         "team": "SRB"
       },
@@ -2795,12 +2889,14 @@
         "team": "SRB"
       },
       "flag": "rs",
-      "name": "SRB"
+      "name": "SRB",
+      "order": 26
     },
     "SUI": {
       "1": {
         "collected": true,
         "key": 1,
+        "repeated": true,
         "team": "SUI"
       },
       "2": {
@@ -2811,6 +2907,7 @@
       "3": {
         "collected": true,
         "key": 3,
+        "repeated": true,
         "team": "SUI"
       },
       "4": {
@@ -2894,7 +2991,8 @@
         "team": "SUI"
       },
       "flag": "ch",
-      "name": "SUI"
+      "name": "SUI",
+      "order": 27
     },
     "TUN": {
       "1": {
@@ -2923,7 +3021,7 @@
         "team": "TUN"
       },
       "6": {
-        "collected": false,
+        "collected": true,
         "key": 6,
         "team": "TUN"
       },
@@ -2945,6 +3043,7 @@
       "10": {
         "collected": true,
         "key": 10,
+        "repeated": true,
         "team": "TUN"
       },
       "11": {
@@ -2963,12 +3062,13 @@
         "team": "TUN"
       },
       "14": {
-        "collected": false,
+        "collected": true,
         "key": 14,
+        "repeated": true,
         "team": "TUN"
       },
       "15": {
-        "collected": false,
+        "collected": true,
         "key": 15,
         "team": "TUN"
       },
@@ -2983,7 +3083,7 @@
         "team": "TUN"
       },
       "18": {
-        "collected": false,
+        "collected": true,
         "key": 18,
         "team": "TUN"
       },
@@ -2993,7 +3093,8 @@
         "team": "TUN"
       },
       "flag": "tn",
-      "name": "TUN"
+      "name": "TUN",
+      "order": 16
     },
     "URU": {
       "1": {
@@ -3044,6 +3145,7 @@
       "10": {
         "collected": true,
         "key": 10,
+        "repeated": true,
         "team": "URU"
       },
       "11": {
@@ -3092,7 +3194,8 @@
         "team": "URU"
       },
       "flag": "uy",
-      "name": "URU"
+      "name": "URU",
+      "order": 31
     },
     "USA": {
       "1": {
@@ -3108,6 +3211,7 @@
       "3": {
         "collected": true,
         "key": 3,
+        "repeated": true,
         "team": "USA"
       },
       "4": {
@@ -3136,7 +3240,7 @@
         "team": "USA"
       },
       "9": {
-        "collected": false,
+        "collected": true,
         "key": 9,
         "team": "USA"
       },
@@ -3171,8 +3275,9 @@
         "team": "USA"
       },
       "16": {
-        "collected": false,
+        "collected": true,
         "key": 16,
+        "repeated": true,
         "team": "USA"
       },
       "17": {
@@ -3181,7 +3286,7 @@
         "team": "USA"
       },
       "18": {
-        "collected": false,
+        "collected": true,
         "key": 18,
         "team": "USA"
       },
@@ -3191,7 +3296,8 @@
         "team": "USA"
       },
       "flag": "us",
-      "name": "USA"
+      "name": "USA",
+      "order": 7
     },
     "WAL": {
       "1": {
@@ -3205,18 +3311,19 @@
         "team": "WAL"
       },
       "3": {
-        "collected": false,
+        "collected": true,
         "key": 3,
         "team": "WAL"
       },
       "4": {
-        "collected": false,
+        "collected": true,
         "key": 4,
         "team": "WAL"
       },
       "5": {
         "collected": true,
         "key": 5,
+        "repeated": true,
         "team": "WAL"
       },
       "6": {
@@ -3240,7 +3347,7 @@
         "team": "WAL"
       },
       "10": {
-        "collected": false,
+        "collected": true,
         "key": 10,
         "team": "WAL"
       },
@@ -3290,7 +3397,8 @@
         "team": "WAL"
       },
       "flag": "gb-wls",
-      "name": "WAL"
+      "name": "WAL",
+      "order": 8
     }
   }
 }
