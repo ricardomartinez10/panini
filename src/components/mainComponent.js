@@ -14,7 +14,8 @@ class MainComponent extends react.Component {
             playerData: {},
             repeatedPlayers: [],
             collectedTotal: 0,
-            totalRepeated: 0
+            totalRepeated: 0,
+            totalPercentage: 0
         }
         this.service = new soccerService();
         //this.service.addGems();
@@ -63,7 +64,7 @@ class MainComponent extends react.Component {
         var collectedPlayers = 0;
         var totalRepeated = 0;
         const repeated = [];
-
+        const totalPlayers = 638;
         
         teams.forEach(team => {
             const squad = {
@@ -86,12 +87,14 @@ class MainComponent extends react.Component {
                 repeated.push(squad);
             }
         });
-        
+
+        const totalPercentage = (100 * collectedPlayers) / totalPlayers;
 
         this.setState({
             repeatedPlayers: repeated,
             collectedTotal: collectedPlayers,
-            totalRepeated: totalRepeated
+            totalRepeated,
+            totalPercentage
         });
     }
 
@@ -117,7 +120,7 @@ class MainComponent extends react.Component {
                     </div>
                 </div>
                 <div>
-                    <p>Total coleccionadas: {this.state.collectedTotal}</p>
+                    <p>Total coleccionadas: ({this.state.collectedTotal} / 638) {this.state.totalPercentage.toFixed()}%</p>
                     <p>Total repetidas: {this.state.totalRepeated}</p>
                 </div>
             </div>
