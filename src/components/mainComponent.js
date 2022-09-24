@@ -121,6 +121,7 @@ class MainComponent extends react.Component {
                 </div>
                 <div>
                     <p>Total coleccionadas: ({this.state.collectedTotal} / 638) {this.state.totalPercentage.toFixed()}%</p>
+                    <p>Total faltantes: {638 - this.state.collectedTotal}</p>
                     <p>Total repetidas: {this.state.totalRepeated}</p>
                 </div>
             </div>
